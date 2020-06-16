@@ -27,7 +27,7 @@
     + [跨机房部署拓扑结构](/geo-distributed-deployment-topology.md)
     + [混合部署拓扑结构](/hybrid-deployment-topology.md)
   + 安装与启动
-    + Linux 环境
+    + Linux    环境
       + [使用 TiUP 部署（推荐）](/production-deployment-using-tiup.md)
       + [使用 TiUP 离线部署（推荐）](/production-offline-deployment-using-tiup.md)
       + [使用 Ansible 部署](/online-deployment-using-ansible.md)
